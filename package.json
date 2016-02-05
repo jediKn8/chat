@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat application using nodeJS and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jediKn8/chat.git"
+  },
+  "author": "Rohit Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jediKn8/chat/issues"
+  },
+  "homepage": "https://github.com/jediKn8/chat#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
